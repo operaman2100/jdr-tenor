@@ -59,6 +59,15 @@ const OperaRep = ({props}) => {
                 <td className="opera-col">Faust</td>
             </tr>
             <tr>
+                <td className="composer-col">Janáček</td>
+                <td className="role-col">Boris Grigorjevič</td>
+                <td className="opera-col">Káťa Kabanová</td>
+            </tr><tr>
+                <td className="composer-col">Janáček</td>
+                <td className="role-col">Števa Buryja</td>
+                <td className="opera-col">Jenůfa</td>
+            </tr>
+            <tr>
                 <td className="composer-col">Leoncavallo</td>
                 <td className="role-col">Canio</td>
                 <td className="opera-col">I Pagliacci</td>
@@ -123,11 +132,6 @@ const OperaRep = ({props}) => {
                 <td className="role-col">Dick Johnson*</td>
                 <td className="opera-col">La Fanciulla del West</td>
             </tr>
-            <tr className="operaTable-header2">
-                <th className="composer-col">Composer</th>
-                <th className="role-col">Role</th>
-                <th className="opera-col">Opera</th>
-            </tr>
             <tr>
                 <td className="composer-col">Puccini</td>
                 <td className="role-col">Calaf</td>
@@ -177,6 +181,11 @@ const OperaRep = ({props}) => {
                 <td className="composer-col">Verdi</td>
                 <td className="role-col">Manrico*</td>
                 <td className="opera-col">Il Trovatore</td>
+            </tr>
+            <tr>
+                <td className="composer-col">Verdi</td>
+                <td className="role-col">Otello</td>
+                <td className="opera-col">Otello</td>
             </tr>
             <tr>
                 <td className="composer-col">Verdi</td>
