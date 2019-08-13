@@ -1,0 +1,16 @@
+.toggle-text {
+    color: white;
+    text-decoration: none;
+    text-shadow: 2px 2px 2px black;
+    font-size: 2rem;
+}
+
+.toggle-text:hover {
+    background-color: darkgrey;
+}
+
+.toggle-hyphen {
+    color: white;
+    text-shadow: 2px 2px 2px black;
+    font-size: 1.8rem;
+}

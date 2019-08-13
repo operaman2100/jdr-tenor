@@ -1,0 +1,18 @@
+.photoGallery-container {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.photoGallery-image {
+    
+}
+
+.photoText {
+    color: white;
+}
+
+/* @media (max-width: 600px) {
+    .photoGallery-container {
+        grid-template-columns: 1fr;
+    }
+} */

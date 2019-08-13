@@ -1,0 +1,24 @@
+.rep-div {
+    color: white;
+    margin: 1rem;
+}
+
+.roles-div {
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    box-shadow: 2px 2px lightgray;
+    box-sizing: border-box;
+    max-width: 900px; 
+    margin: 2rem auto;
+    padding: 2rem;
+}
+
+@media (max-width: 650px) {
+    .rep-div {
+        margin: 0;
+    }
+    .roles-div {
+        margin: 0 auto;
+        padding: 0rem;
+    }
+}

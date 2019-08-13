@@ -1,0 +1,11 @@
+.av-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.youtubeVids {
+    margin: 1rem;
+    padding: 1rem;
+}

@@ -1,0 +1,14 @@
+html {
+    background: purple;
+    /* fallback for old browsers */
+    height: 100%;
+}
+
+body {
+    text-align: center;
+}
+
+.App {
+    text-align: center;
+    width: 100%;
+}

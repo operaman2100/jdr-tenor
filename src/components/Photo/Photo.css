@@ -1,0 +1,16 @@
+.photoDiv {
+    text-align: center;
+}
+
+.photoDiv-image {
+    height: 65vh;
+    width: auto;
+}
+
+@media (max-width: 600px) {
+    .photoDiv-image {
+        max-width: 1200px;
+        height: auto;
+        width: 90vw;
+    }
+}

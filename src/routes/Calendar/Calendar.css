@@ -1,0 +1,22 @@
+.calendar-div {
+    box-sizing: border-box;
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-family: "Cormorant", serif;
+    text-shadow: 1px 1px 1px black;
+    max-width: 1200px;
+    margin: 0px auto;
+    width: 90vw;
+}
+
+.year-div {
+    max-width: 600px; 
+    margin: .5rem auto;
+}
+
+@media (max-width: 600px) {
+    .calendar-div {
+        grid-template-columns: 1fr;
+    }
+}

@@ -1,0 +1,170 @@
+[{
+    "composer": "Beethoven",
+    "role": "Florestan",
+    "opera": "Fidelio"
+}, {
+    "composer": "Bellini",
+    "role": "Pollione*",
+    "opera": "Norma"
+} ,{
+    "composer": "Bizet",
+    "role": "Don Jose",
+    "opera": "Carmen"
+} ,{
+    "composer": "Boito",
+    "role": "Faust",
+    "opera": "Mefistofele"
+} ,{
+    "composer": "Britten",
+    "role": "Peter Grimes",
+    "opera": "Peter Grimes"
+} ,{
+    "composer": "Britten",
+    "role": "Captain Vere",
+    "opera": "Billy Budd"
+} ,{
+    "composer": "Donizetti",
+    "role": "Edgardo",
+    "opera": "Lucia di Lammermoor"
+} ,{
+    "composer": "Giordano",
+    "role": "Andrea Chenier",
+    "opera": "Andrea Chenier"
+} ,{
+    "composer": "Gounod",
+    "role": "Faust",
+    "opera": "Faust"
+} ,{
+    "composer": "Leoncavallo",
+    "role": "Canio",
+    "opera": "Pagliacci"
+} ,{
+    "composer": "Mascagni",
+    "role": "Turiddu",
+    "opera": "Cavalleria Rusticana"
+} ,{
+    "composer": "Mozart",
+    "role": "Tamino",
+    "opera": "Die Zauberflote"
+} ,{
+    "composer": "Offenbach",
+    "role": "Hoffmann",
+    "opera": "Les contes d'Hoffmann"
+} ,{
+    "composer": "Prokofiev",
+    "role": "Le Prince",
+    "opera": "L'amour des trois oranges"
+} ,{
+    "composer": "Puccini",
+    "role": "Rodolfo",
+    "opera": "La Boheme"
+} ,{
+    "composer": "Puccini",
+    "role": "Pinkerton",
+    "opera": "Madama Butterfly"
+} ,{
+    "composer": "Puccini",
+    "role": "Ruggiero",
+    "opera": "La Rondine"
+} ,{
+    "composer": "Puccini",
+    "role": "Cavaradossi",
+    "opera": "Tosca"
+} ,{
+    "composer": "Puccini",
+    "role": "Luigi",
+    "opera": "Il tabarro"
+} ,{
+    "composer": "Puccini",
+    "role": "Des Grieux",
+    "opera": "Manon Lescaut"
+} ,{
+    "composer": "Puccini",
+    "role": "Roberto",
+    "opera": "Le Villi"
+} ,{
+    "composer": "Puccini",
+    "role": "Dick Johnson",
+    "opera": "La fanciulla del west"
+} ,{
+    "composer": "Puccini",
+    "role": "Calaf",
+    "opera": "Turandot"
+} ,{
+    "composer": "Strauss, J.",
+    "role": "Alfred",
+    "opera": "Die Fledermaus"
+} ,{
+    "composer": "Strauss, R.",
+    "role": "Italian Tenor*",
+    "opera": "Der Rosenkavalier"
+} ,{
+    "composer": "Strauss, R.",
+    "role": "Narraboth",
+    "opera": "Salome"
+} ,{
+    "composer": "Strauss, R.",
+    "role": "Bacchus",
+    "opera": "Ariadne auf Naxos"
+} ,{
+    "composer": "Verdi",
+    "role": "Alfredo",
+    "opera": "La Traviata"
+} ,{
+    "composer": "Verdi",
+    "role": "Duke of Mantua",
+    "opera": "Rigoletto"
+} ,{
+    "composer": "Verdi",
+    "role": "Ismaele",
+    "opera": "Nabucco"
+} ,{
+    "composer": "Verdi",
+    "role": "Macduff",
+    "opera": "Macbeth"
+} ,{
+    "composer": "Verdi",
+    "role": "Manrico",
+    "opera": "Il Trovatore"
+} ,{
+    "composer": "Verdi",
+    "role": "Riccardo",
+    "opera": "Un Ballo in Maschera"
+} ,{
+    "composer": "Verdi",
+    "role": "Don Carlo",
+    "opera": "Don Carlo"
+} ,{
+    "composer": "Verdi",
+    "role": "Tenor",
+    "opera": "Requiem"
+} ,{
+    "composer": "Verdi",
+    "role": "Radames",
+    "opera": "Aida"
+} ,{
+    "composer": "Wagner",
+    "role": "Claudio",
+    "opera": "Das Liebesverbot"
+} ,{
+    "composer": "Wagner",
+    "role": "Erik",
+    "opera": "Der fliegende Hollander"
+} ,{
+    "composer": "Wagner",
+    "role": "Froh",
+    "opera": "Das Rheingold"
+} ,{
+    "composer": "Wagner",
+    "role": "Parsifal",
+    "opera": "Parsifal"
+} ,{
+    "composer": "Wagner",
+    "role": "Lohengrin",
+    "opera": "Lohengrin"
+} ,{
+    "composer": "Wagner",
+    "role": "Walther",
+    "opera": "Die Meistersinger von Nurnberg"
+}
+]

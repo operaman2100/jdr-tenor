@@ -1,0 +1,23 @@
+.gallery-container {
+    background: black;
+    height: auto;
+    width: 70vw;
+    margin: 0 auto;
+}
+
+.gallery-image img {
+    height: auto;
+    width: 70vw;
+}
+
+@media (max-width: 600px) {
+    .gallery-container {
+        height: auto;
+        width: 100vw;
+    }
+
+    .gallery-image {
+        height: auto;
+        width: 100vw;
+    }
+}

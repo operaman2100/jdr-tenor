@@ -1,0 +1,43 @@
+.header {
+    font-family: "Cormorant", serif;
+    font-size: 2rem;
+}
+
+.operaTable-container {
+    column-count: 2;
+    min-width: 375px;
+    max-width: 1200px;
+    margin: 0px auto;
+}
+
+.operaTable {
+    font-family: "Cormorant", serif;
+    margin: 0px auto;
+    padding: .5rem;
+}
+
+.operaTable-header, .operaTable-header2 {
+    text-align: left;
+    font-size: 1.6rem;
+    padding: .2rem;
+}
+
+.composer-col, .role-col, .opera-col {
+    text-align: left;
+    font-size: 1.4rem;
+    padding: .2rem;
+}
+
+.notes-row {
+    white-space: pre;
+}
+
+@media (max-width: 599px) {
+    .operaTable-container {
+        column-count: 1;
+    }
+
+    .operaTable-header2 {
+        display: none;
+    }
+}
