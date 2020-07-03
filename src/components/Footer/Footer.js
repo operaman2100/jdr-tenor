@@ -5,6 +5,8 @@ import insta from '../../images/social-icons/instagram.svg';
 import linkedin from '../../images/social-icons/linkedin.svg';
 
 const Footer = () => {
+  const currentDate = new Date()
+
   return (
     <div className="footer">
 
@@ -22,7 +24,7 @@ const Footer = () => {
       </a>
     </div>
     
-    <h6>Copyright 2019, John D. Rodger. All Rights Reserved.</h6>
+    <h6>Copyright 2019-{currentDate.getFullYear()}, John D. Rodger. All Rights Reserved.</h6>
     </div>
   )
 }
