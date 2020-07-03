@@ -20,6 +20,7 @@
 
 .social-buttons-divs:hover {
     background: darkgray;
+    transition: 0.3s;
 
 }
 

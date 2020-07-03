@@ -1,5 +1,5 @@
 .navLink {
-    border-radius: 10px;
+    border-radius: 5px;
     color: white;
     font-family: "Cormorant", serif;
     font-size: 2rem;
@@ -9,7 +9,9 @@
 }
 
 .navLink:hover {
-    background-color: darkgrey;
+    background-color: #6e6e6e;
+    margin: .5rem;
+    transition: 0.3s;
 }
 
 @media (max-width: 599px) {
