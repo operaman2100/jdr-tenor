@@ -13,13 +13,12 @@
 }
 
 .social-buttons-divs {
-    border-radius: 10px;
     display: flex;
     margin: 0 auto;
 }
 
 .social-buttons-divs:hover {
-    background: darkgray;
+    background: #222;
     transition: 0.3s;
 
 }
